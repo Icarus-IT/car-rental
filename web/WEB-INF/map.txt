@@ -1,0 +1,14 @@
+try=login.jsp
+login=LoginServlet
+search=SearchServlet
+signup=signup.jsp
+CreateAccount=SignUpServlet
+searchcategory=SearchCategoryServlet
+searchyear=SearchYearServlet
+AddtoCart=AddtoCartServlet
+viewyourcart=viewCart.jsp
+searchpage=search.jsp
+RemoveCar=RemoveCarServlet
+checkout=CheckOutServlet
+paging=PagingServlet
+logout=LogoutServlet
